@@ -23,7 +23,6 @@ Oi, tudo bem? Sou um profissional de TI, focado em desenvolvimento web com as li
 <p align="center" >
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/react-66dbfb?style=for-the-badge&logo=react&logoColor=white" />
-    <img src="https://img.shields.io/badge/tailwindcss-192134?style=for-the-badge&logo=tailwindcss&logoColor=white" />
     <img src="https://img.shields.io/badge/Java-ec272c?style=for-the-badge&logo=java&logoColor=white" />
     <img src="https://img.shields.io/badge/Spring-007396?style=for-the-badge&logo=spring&logoColor=white" />
     <img src="https://img.shields.io/badge/mysql-e59208?style=for-the-badge&logo=mysql&logoColor=08668e" />
