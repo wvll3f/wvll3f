@@ -3,7 +3,7 @@
 <h3 align="center">Desenvolvedor Web</h3>
 <p align="center" >
   
-Oi, tudo bem? Sou um profissional de TI, focado em desenvolvimento web com as linguagens Java, JavaScript. Meu objetivo é sempre construir soluções inteligentes e funcionais que resolvam problemas reais. <strong>Se você busca um desenvolvedor que esteja pronto para colaborar e trazer  soluções inovadoras para projetos, vamos trabalhar juntos!</strong>
+Hey there! I'm an IT professional specializing in web development with Java and JavaScript. I’m all about building smart, functional solutions that tackle real-world problems. If you're looking for a developer who's ready to collaborate and bring fresh ideas to the table, let’s make it happen!
 
 </p>
 
